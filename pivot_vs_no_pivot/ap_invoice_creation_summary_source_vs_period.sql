@@ -20,7 +20,7 @@ FROM
             '2023-12' AS creation_period_2023_12,
             '2024-01' AS creation_period_2024_01,
             '2024-02' AS creation_period_2024_02,
-            '2024-03' AS creation_period_2024_03,
+            '2024-03' AS creation_period_2024_03
         )
     )
 ;
